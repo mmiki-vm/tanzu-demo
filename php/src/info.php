@@ -1,8 +1,14 @@
 <?php 
-$a = "Hello";
+$a = "HelloMmiki";
 echo $a;
-$b = "GoodBye";
+$b = "GoodByeMMiki2";
+$a = "Ryosuke";
+echo $a;
+$b = "Takehara";
 echo $b;
+echo('ykanai');
+echo "this is hshimizu";
+
+
 
 ?>
-a
